@@ -1,3 +1,4 @@
+<img width="721" height="379" alt="image" src="https://github.com/user-attachments/assets/62cf04c7-b64c-442e-b068-d583357c3120" />
 # Docker Flask App
 
 Bu proje, basit bir Flask uygulamasının Docker kullanılarak container içerisinde çalıştırılmasını gösteren örnek bir yapıdır.
