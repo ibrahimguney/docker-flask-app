@@ -31,6 +31,21 @@ docker-flask-app/
 ```bash
 docker build -t flask-docker-demo .
 
+docker run -d --name flask-docker-demo-container -p 5000:5000 flask-docker-demo
+
+
+http://localhost:5000
+
+🐳 Kullanılan Teknolojiler
+Python 3.10+
+
+Flask
+
+Docker
+
+GitHub
+
+
 
 
 
