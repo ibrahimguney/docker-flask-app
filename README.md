@@ -11,3 +11,26 @@ Bu uygulama:
 
 ## 📁 Proje Yapısı
 
+docker-flask-app/
+│
+├── app.py
+├── requirements.txt
+├── Dockerfile
+└── README.md
+
+
+## 🧩 Kurulum ve Çalıştırma
+
+
+
+
+
+
+### 1. Docker İmajını Oluştur
+
+```bash
+docker build -t flask-docker-demo .
+
+
+
+
